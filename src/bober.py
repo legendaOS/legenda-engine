@@ -10,5 +10,5 @@ while True:
 index = 0
 
 while index < len(spisok):
-    print(f"{index}'МАРК ГОВОРИТ:'. {spisok[index]}")
+    print(f"МАРК ГОВОРИТ:'. {spisok[index]}")
     index = index + 1
